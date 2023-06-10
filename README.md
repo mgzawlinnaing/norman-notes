@@ -45,8 +45,8 @@ The app allows users to look up notes and create new notes, which are then saved
 react-note-app/
   |
   ├──data/
-  |   ├── db.json
-  |
+  │   ├── db.json
+  │
   ├── src/
   │   ├── components/         # Contains reusable components
   │   ├── pages/              # Contains individual pages of the app       # Contains services for interacting with the JSON server
