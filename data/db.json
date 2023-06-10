@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Why are you going to the US? What will be your specialization/major?",
+      "details": "I am going to the US because it is my dream country to pursue a higher education degree in Computer Science. I chose this field because I am passionate about technology and innovation, and I believe that Computer Science will provide me with the skills and knowledge necessary to make a positive impact in the industry. ",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Why are you continuing your education abroad? Why not do this course in your country?",
+      "details": "I am continuing my education abroad because I believe that studying in the US will provide me with a better learning experience than I could receive in Myanmar. While there are certainly good universities in Myanmar, the resources and opportunities available in the US are unparalleled. For example, the professors and researchers in the US are some of the best in the world, and the cutting-edge research and technology available in the US will enable me to gain knowledge and skills that are not as readily available in Myanmar. Additionally, the US has a diverse and multicultural environment that will allow me to learn from people with a wide variety of backgrounds and perspectives, which I believe will be invaluable to my personal and professional growth. I can also learn about latest technologies which are not yet still available in my home country, Myanmar.\n\nAs for why I did not choose to do the course in my own country, while there are certainly many excellent private educational institutions in my country, I believe that studying abroad will provide me with a more well-rounded education and a broader range of experiences. Additionally, I believe that studying in the US will enhance my career prospects and help me achieve my long-term goals.",
+      "category": "todos",
+      "id": 5
+    },
+    {
+      "title": "Why do you choose the US and why not Canada or Australia or etc?",
+      "details": "I chose to study in the US because it is home to some of the best universities in the world, and has a reputation for academic excellence. Additionally, the US has a rich culture of innovation and entrepreneurship, which I believe will provide me with unique opportunities to develop my skills and knowledge.\n\nI chose to attend California State because it has an excellent Computer Science program which is my field of study. Additionally, California is home to many of the world's leading technology companies, which will provide me with invaluable opportunities for internships and networking. Moreover, it offers high-quality educational programs and opportunities for networking and career development. In California, students have access to state-of-the-art equipment and facilities, which can enhance their learning and research opportunities. In Myanmar, however, the lack of resources and outdated technology can be a significant challenge for students. Last but not least, It has a strong commitment to environmental protection, better social security, and social justice.",
+      "category": "reminders",
+      "id": 6
+    }
+  ]
+}
